@@ -2,8 +2,8 @@ import React from "react";
 
 export const Footer = () => {
   return (
-    <div>
-      <h1 className="text-blue-500 py-10">Footer</h1>
+    <div className="text-center py-10 mt-10 border-t dark:border-blue-800 border-gray-200">
+      <h1>2021 | Custom Advanced Google Search, Inc.</h1>
     </div>
   );
 };
